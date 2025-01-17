@@ -1,0 +1,67 @@
+body {
+    padding-top: 50px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+main section {
+    margin-bottom: 5rem;
+}
+
+.details,
+.program {
+    ul {
+        padding: 0;
+
+        li {
+            list-style-type: none;
+        }
+    }
+}
+
+.details {
+    text-align: center;
+}
+
+.cta-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    button {
+        border: none;
+        padding: 10px 20px;
+
+        &:hover {
+            background-color: var(--pico-primary-hover-background);
+        }
+    }
+}
+
+footer {
+    background-color: var(--pico-primary-background);
+    margin-top: 1rem;
+    padding: 20px;
+    text-align: center;
+
+    p {
+        color: white;
+    }
+
+    a {
+        color: white;
+        text-decoration: underline;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
