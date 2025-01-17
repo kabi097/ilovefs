@@ -58,6 +58,10 @@ main section {
     }
 }
 
+.social-promo {
+    margin-top: 3rem;
+}
+
 footer {
     background-color: var(--pico-primary-background);
     margin-top: 1rem;
