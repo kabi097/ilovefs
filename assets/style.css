@@ -11,6 +11,18 @@ main section {
     margin-bottom: 5rem;
 }
 
+.hero {
+    align-items: center;
+
+    section {
+        margin: 0;
+    }
+
+    .logo {
+        justify-self: center;
+    }
+}
+
 .details,
 .program {
     ul {
