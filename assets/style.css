@@ -83,7 +83,7 @@ main section {
             justify-content: center;
             align-items: center;
 
-            img {
+            img:not(.blank) {
                 border-radius: 50%;
             }
         }
