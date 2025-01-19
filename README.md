@@ -17,7 +17,7 @@ Feel free to remove any boilerplate info and change it as you like.
 
 ## Setup
 
-First things first, click on "Use this template" next to the fork button.
+First things first, click on "Use this template" next to the star button (consider giving a star!).
 
 This repository doesn't require any knowledge.
 The only thing you have to do is replace the `index.html` file with one of your own language from the `i18n` directory under the same name.
