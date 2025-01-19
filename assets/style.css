@@ -1,5 +1,7 @@
-body {
-    padding-top: 50px;
+.theme-toggle-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem 1.25rem;
 }
 
 header {
