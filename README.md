@@ -33,6 +33,14 @@ The site is probably 100% done, but we can consider not groundbreaking fixes to 
 If you speak a language that doesn't have its own translation here, please help!
 Translate the original content of `index.html` into your own language. Let's keep the translations concise. Later you can make a fork where you can customize it to your liking.
 
+## Acknowledgements
+
+This project uses:
+- [Lucide Icons](https://github.com/lucide-icons/lucide/)
+- [Pico CSS](https://github.com/picocss/pico)
+- [Simple Icons](https://github.com/simple-icons/simple-icons/)
+- [Theme Toggles](https://github.com/AlfieJones/theme-toggles)
+
 ## 📄 License
 
 This project is licensed under the [ISC license](./LICENSE).
