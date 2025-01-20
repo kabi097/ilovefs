@@ -78,16 +78,10 @@ main section {
         .member-photo {
             width: 200px;
             height: 200px;
-            border-radius: 50%;
             color: white;
-            background-color: #d92662;
             display: flex;
             justify-content: center;
-            align-items: center;
-
-            img:not(.blank) {
-                border-radius: 50%;
-            }
+            align-items: center;s
         }
 
         .member-details {
